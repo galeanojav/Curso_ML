@@ -1,1 +1,1 @@
-# Carptea de programas hechos con Orange3
+# Carpeta de programas hechos con Orange3
